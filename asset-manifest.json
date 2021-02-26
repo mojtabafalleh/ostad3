@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/ostad/static/css/main.e473feb3.chunk.css",
+    "main.js": "/ostad/static/js/main.f642a398.chunk.js",
+    "main.js.map": "/ostad/static/js/main.f642a398.chunk.js.map",
+    "runtime-main.js": "/ostad/static/js/runtime-main.d525e1b4.js",
+    "runtime-main.js.map": "/ostad/static/js/runtime-main.d525e1b4.js.map",
+    "static/css/2.f0a9a0c2.chunk.css": "/ostad/static/css/2.f0a9a0c2.chunk.css",
+    "static/js/2.31d40fa3.chunk.js": "/ostad/static/js/2.31d40fa3.chunk.js",
+    "static/js/2.31d40fa3.chunk.js.map": "/ostad/static/js/2.31d40fa3.chunk.js.map",
+    "static/js/3.83a35910.chunk.js": "/ostad/static/js/3.83a35910.chunk.js",
+    "static/js/3.83a35910.chunk.js.map": "/ostad/static/js/3.83a35910.chunk.js.map",
+    "index.html": "/ostad/index.html",
+    "static/css/2.f0a9a0c2.chunk.css.map": "/ostad/static/css/2.f0a9a0c2.chunk.css.map",
+    "static/css/main.e473feb3.chunk.css.map": "/ostad/static/css/main.e473feb3.chunk.css.map",
+    "static/js/2.31d40fa3.chunk.js.LICENSE.txt": "/ostad/static/js/2.31d40fa3.chunk.js.LICENSE.txt",
+    "static/js/main.f642a398.chunk.js.LICENSE.txt": "/ostad/static/js/main.f642a398.chunk.js.LICENSE.txt",
+    "static/media/angular.jpg": "/ostad/static/media/angular.b5045666.jpg",
+    "static/media/argon-react-white.png": "/ostad/static/media/argon-react-white.e4dd3b41.png",
+    "static/media/argon-react.png": "/ostad/static/media/argon-react.128d71d3.png",
+    "static/media/bootstrap.jpg": "/ostad/static/media/bootstrap.bd712487.jpg",
+    "static/media/all.min.css": "/ostad/static/media/fa-solid-900.f4f93856.woff",
+    "static/media/nucleo.css": "/ostad/static/media/nucleo-icons.d6a66724.ttf",
+    "static/media/profile-cover.jpg": "/ostad/static/media/profile-cover.97899245.jpg",
+    "static/media/react.jpg": "/ostad/static/media/react.0e8c9066.jpg",
+    "static/media/sketch.jpg": "/ostad/static/media/sketch.a6af780a.jpg",
+    "static/media/team-1-800x800.jpg": "/ostad/static/media/team-1-800x800.fa5a7ac2.jpg",
+    "static/media/team-2-800x800.jpg": "/ostad/static/media/team-2-800x800.3e08ef14.jpg",
+    "static/media/team-3-800x800.jpg": "/ostad/static/media/team-3-800x800.70911cdd.jpg",
+    "static/media/team-4-800x800.jpg": "/ostad/static/media/team-4-800x800.99c612eb.jpg",
+    "static/media/vue.jpg": "/ostad/static/media/vue.43bd93a8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d525e1b4.js",
+    "static/css/2.f0a9a0c2.chunk.css",
+    "static/js/2.31d40fa3.chunk.js",
+    "static/css/main.e473feb3.chunk.css",
+    "static/js/main.f642a398.chunk.js"
+  ]
+}
